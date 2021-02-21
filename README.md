@@ -1,4 +1,7 @@
-### Hi there 👋
+<p align="center">
+<b> Hi there 👋 </b>
+<p align="left">
+
 - 💻 I code primarily in C++, however I also use Swift and C# occasionally.
 - 🔭 I am currently working on Graphics Programming, mostly using Metal, but some Vulkan and OpenGL too.
 - 🧠 I love Vim and I use it every day.
